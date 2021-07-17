@@ -1,6 +1,6 @@
 /***********************************************************************************
- * Purpose - This code is wrriten to take a range of numbers as input and output 
- * the Prime Numbers in that range.
+ * Purpose - This code is wrriten to take a range of numbers as input and output.
+ * @version v14.17.3
  * @author Rekha
  * @since 12-07-2021
  ***********************************************************************************/
